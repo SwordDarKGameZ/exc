@@ -29,8 +29,8 @@ Exclusive For : Thitiphat Thanachaisret
               
 	""")
 	
-	print("Usage : python Spam.py < number > < amount >")
-	print("วิธีใช้   : python Spam.py <เบอร์> <จำนวน>" )
+	print("Usage : python exc.py < number > < amount >")
+	print("วิธีใช้   : python exc.py <เบอร์> <จำนวน>" )
 	sys.exit(1)
 	
 
